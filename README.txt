@@ -1,3 +1,8 @@
+本科毕业设计作品
+基于Obfuscator-LLVM改进开发而来，融合了一部分新构思或发现的混淆算法，改进了部分不足
+欢迎学习参考
+
+以下是原始README.txt内容
 Low Level Virtual Machine (LLVM)
 ================================
 
